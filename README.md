@@ -1,4 +1,7 @@
-Boom Video Calling WebApp
+![Uploading image.png…]()
+
+
+**Boom Video Calling WebApp**
 Boom is a real-time video calling web application built with modern web technologies. It enables users to connect seamlessly through high-quality video and audio communication directly from their browsers. The application leverages WebRTC for peer-to-peer media streaming and Socket.io for efficient signaling.
 
 🚀 Features
