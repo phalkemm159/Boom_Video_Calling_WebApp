@@ -34,14 +34,23 @@ Try the app live here: **[Boom Video Calling – Live Project](https://boom-vide
 
 ## 📁 Project Structure
 Boom_Video_Calling_WebApp/
+
 ├── backend/
+
 │   ├── server.js
+
 │   └── ...
+
 ├── frontend/
+
 │   ├── index.html
+
 │   ├── style.css
+
 │   └── script.js
+
 ├── .gitignore
+
 └── README.md
 
 ---
